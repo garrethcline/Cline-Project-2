@@ -1,4 +1,4 @@
-# Cline-Project-2
+# Twitch Insights on Viewership
 My project on twitch data using linear regression
 
 This is the final version of the linear regression project at Metis. 
